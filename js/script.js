@@ -187,7 +187,7 @@ let arr = [
         "price": 599,
         "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero - frame design | ultra - thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors.Brightness - 250 nit Tilt angle - 5 degree to 15 degree.Horizontal viewing angle - 178 degree.Vertical viewing angle - 178 degree 75 hertz",
         "category": "electronics",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcco_iN60eAnfaNNALXhl6DYa1v5iv1Jw0g&s",
+        "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
         "rating":
         {
             "rate": 2.9,
@@ -202,7 +202,7 @@ let arr = [
         "description": "49 INCH SUPER ULTRAWIDE 32: 9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT(QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
         "category": "electronics",
         "image":
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcco_iN60eAnfaNNALXhl6DYa1v5iv1Jw0g&s",
+            "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
         "rating":
         {
             "rate": 2.2,
@@ -218,7 +218,7 @@ let arr = [
             "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100 % Polyester; Detachable Liner Fabric: Warm Fleece.Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest(enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water, for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together.It is suitable for different season and help you adapt to different climates",
         "category": "women's clothing",
         "image":
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcco_iN60eAnfaNNALXhl6DYa1v5iv1Jw0g&s",
+            "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
         "rating":
         {
             "rate": 2.6,
@@ -233,7 +233,7 @@ let arr = [
         "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
         "category": "women's clothing",
         "image":
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcco_iN60eAnfaNNALXhl6DYa1v5iv1Jw0g&s",
+            "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
         "rating":
         {
             "rate": 2.9,
@@ -248,7 +248,7 @@ let arr = [
         "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
         "category": "women's clothing",
         "image":
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcco_iN60eAnfaNNALXhl6DYa1v5iv1Jw0g&s",
+            "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
         "rating":
         {
             "rate": 3.8,
@@ -263,7 +263,7 @@ let arr = [
         "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
         "category": "women's clothing",
         "image":
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcco_iN60eAnfaNNALXhl6DYa1v5iv1Jw0g&s",
+            "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
         "rating":
         {
             "rate": 4.7,
@@ -278,7 +278,7 @@ let arr = [
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image":
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcco_iN60eAnfaNNALXhl6DYa1v5iv1Jw0g&s",
+            "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
         "rating":
         {
             "rate": 4.5,
@@ -293,7 +293,7 @@ let arr = [
         "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print, V - Neck, Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual / Office / Beach / School / Home / Street.Season: Spring, Summer, Autumn, Winter.",
         "category": "women's clothing",
         "image":
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcco_iN60eAnfaNNALXhl6DYa1v5iv1Jw0g&s",
+            "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
         "rating":
         {
             "rate": 3.6,
@@ -302,9 +302,26 @@ let arr = [
     }
 ]
 
-const container = document.querySelector('.container')
+const container = document.querySelector('.con')
 
-const CreateElement = (array, con) => {
+const LikedCounter = document.querySelector('.count')
+
+const all = document.querySelector('.all')
+const liked = document.querySelector('.liked')
+
+
+let LikedArr = []
+
+liked.addEventListener('click', () => {
+    location.pathname = '/liked.html'
+})
+
+all.addEventListener('click', () => {
+    location.pathname = '/index.html'
+})
+
+const CreateElement = (array, con, del) => {
+    LikedCounter.innerHTML = LikedArr.length
     for (let i = 0; i < array.length; i++) {
         let box = document.createElement('div')
         box.classList.add('box')
@@ -356,9 +373,26 @@ const CreateElement = (array, con) => {
             if (btn.classList.contains('active')) {
                 btn.classList.remove('active')
                 btn.innerHTML = 'В избранное'
+                LikedCounter.innerHTML--
+                if (del) {
+                    LikedArr.splice(LikedArr.indexOf(array[i]), 1)
+                    localStorage.setItem('likedArr', JSON.stringify(LikedArr))
+                    btn.parentElement.parentElement.style.display = `none`
+                } else {
+                    LikedArr.splice(LikedArr.indexOf(array[i]), 1)
+                    localStorage.setItem('likedArr', JSON.stringify(LikedArr))
+                }
             } else {
                 btn.classList.add('active')
                 btn.innerHTML = 'Добавлено'
+                LikedCounter.innerHTML++
+                LikedArr.push(array[i])
+                LikedArr = LikedArr.sort((a, b) => {
+                    return a.id - b.id
+                })
+                console.log(LikedArr);
+                localStorage.setItem('likedArr', JSON.stringify(LikedArr))
+
             }
         })
 
@@ -374,10 +408,22 @@ const CreateElement = (array, con) => {
         txt.appendChild(rating)
         txt.appendChild(btn)
 
+        con.appendChild(box)
 
-        con.append(box)
+        for (let k = 0; k < LikedArr.length; k++) {
+            if (array[i].id === LikedArr[k].id) {
+                btn.classList.add('active')
+                btn.innerHTML = 'Добавлено'
+            }
+        }
     }
 }
 
 
-CreateElement(arr, container)
+
+function name() {
+    LikedArr = JSON.parse(localStorage.getItem("likedArr") || '[]')
+}
+
+name()
+CreateElement(arr, container, false)
