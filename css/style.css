@@ -8,6 +8,10 @@
     -webkit-user-select: none;
 }
 
+body {
+    background: #fff;
+}
+
 .container {
     width: 1200px;
     margin: 30px auto;
@@ -38,6 +42,9 @@ h1 {
     width: 254px;
     height: 55px;
     margin: 0 3px;
+    border: 1px solid #000;
+    background: #000;
+    color: #fff;
 }
 
 .body {
@@ -161,6 +168,18 @@ button {
     .box {
         width: 33%;
     }
+    h1 {
+        font-size: 40px;
+    }
+
+    .btns {
+        width: 70%;
+        justify-content: space-between;
+    }
+    .btns button {
+        width: 45%;
+        margin: 10px 0;
+    }
 }
 
 @media screen and (max-width: 550px) {
@@ -170,5 +189,17 @@ button {
 
     .box {
         width: 100%;
+    }
+    h1 {
+        font-size: 35px;
+    }
+
+    .btns {
+        width: 100%;
+        justify-content: space-between;
+    }
+    .btns button {
+        width: 45%;
+        margin: 10px 0;
     }
 }
